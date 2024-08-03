@@ -48,5 +48,5 @@ body:
     type: checkboxes
     attributes:
       options:
-        label: I set a token in the options page. I understand that some features require a token to work.
-        required: true
+        - label: I set a token in the options page. I understand that some features require a token to work.
+          required: true
